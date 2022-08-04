@@ -13,7 +13,7 @@
   <a href="https://angel.co/u/alex-salazar-dev" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=8A00D5&style=flat-square&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1GsPduEVM2SMRjazcydfaEt0VIBY8WvGp/view?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1WT6gCwPxf3lgVA5WK0k7By_ffundiRMQbN_r57IIBXo/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=319cd9&style=flat-square&logo=react&logo-color=white"/>
   </a>
 </p>
