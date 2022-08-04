@@ -88,7 +88,7 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
         <p>Church of Bergen Scripture Study App descrip</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">SecondSightExperience.com</h3>
+      <h3 align="center">SecondSightExperience.nyc</h3>
         <br />
         <a target="_blank" href="https://secondsightexperience.nyc/">
           <img src="./img/SecondSight.png" width="100%" alt="SecondSightExperience.com"/>
