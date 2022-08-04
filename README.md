@@ -90,7 +90,7 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
     <td width="50%" valign="top">
       <h3 align="center">SecondSightExperience.com</h3>
         <br />
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://secondsightexperience.nyc/">
           <img src="./img/SecondSight.png" width="100%" alt="SecondSightExperience.com"/>
         </a>
         <br />
