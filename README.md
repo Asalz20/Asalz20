@@ -88,22 +88,22 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
         <p>Church of Bergen Scripture Study App descrip</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">ColombiArtista.com</h3>
+      <h3 align="center">SecondSightExperience.com</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="#" width="100%" alt="ColombiArtista.com"/>
+          <img src="./img/SecondSight.png" width="100%" alt="SecondSightExperience.com"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://secondsightexperience.nyc/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LIVE&color=319cd9&style=flat-square&logo=react&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/Asalz20/second-sight" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>ColombiArtista.com descrip</p>
+        <p>Landing page for NYC Marketing Agency client</p>
     </td>
   </tr>
 </table>
