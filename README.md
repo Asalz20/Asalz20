@@ -117,10 +117,10 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=e6e600&style=flat-square&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=006600&style=flat-square&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=33ccff&style=flat-square&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GATSBY&color=521CD1&style=flat-square&logo=gatsby"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=ccccff&style=flat-square&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=00b300&style=flat-square&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ff3300&style=flat-square&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GATSBY&color=521CD1&style=flat-square&logo=gatsby"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SANITY&color=D1641C&style=flat-square&logo=sanity"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SANITY&color=D1641C&style=flat-square&logo=sanity.io"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BIGCOMMERCE&color=666699&style=flat-square&logo=bigcommerce"/>
   </p>
