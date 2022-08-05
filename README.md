@@ -122,6 +122,6 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=ccccff&style=flat-square&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=00b300&style=flat-square&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ff3300&style=flat-square&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SANITY&color=D1641C&style=flat-square&logo=sellfy&logo-color=orange"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SANITY&color=D1641C&style=flat-square&logo=sellfy&logo-color=FB6022"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BIGCOMMERCE&color=666699&style=flat-square&logo=bigcommerce"/>
   </p>
