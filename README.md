@@ -35,37 +35,34 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
       <h3 align="center">PectusPlus.com</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="#" width="100%" alt="PectusPlus.com"/>
+            <img src="./img/pectus-plus.png" width="100%" alt="PectusPlus.com"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LIVE&color=319cd9&style=flat-square&logo=react&logo-color=white"/>
-  </a>  
-  <a href="#" target="_blank">
+  <a href="https://github.com/Asalz20/pectus-plus-frontend" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>PectusPlus descrip</p>
+        <p>Fully responsive Ecommerce website built for the Pectus Excavatum community</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">PectusPlus Blog</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="#" width="100%"  alt="PectusPlus Blog"/>
+            <img src="./img/pectus-plus-blog.png" width="100%"  alt="PectusPlus Blog"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://pectusplus-blog.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LIVE&color=319cd9&style=flat-square&logo=react&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/Asalz20/pectusplus-blog" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>PectusPlus blog descrip</p>
+        <p>Fully responsive blog site for PectusPlus.com where posts go in depth on living with Pectus Excavatum, published medical articles, stretching techniques, breathing techniques, and weightlifting routines</p>
     </td>
   </tr>
   
