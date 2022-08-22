@@ -71,18 +71,17 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
       <h3 align="center">Church of Bergen Scripture Study App</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="#" width="100%" alt="my portfolio"/>
+          <img src="./img/bible-verse.png" width="100%" alt="Church of Bergen Scripture App"/>
         </a>
       <br />
         <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LIVE&color=319cd9&style=flat-square&logo=react&logo-color=white"/>
-  </a>
+
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>Church of Bergen Scripture Study App descrip</p>
+        <p>Fully responsive Bible Scripture app used by the Church of Bergen
+              to recite, study, and interpret scripture</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">SecondSightExperience.nyc</h3>
@@ -100,7 +99,7 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>Landing page for NYC Marketing Agency client</p>
+        <p>Fully responsive landing page for NYC Marketing Agency based out of Manhattan, NYC</p>
     </td>
   </tr>
 </table>
