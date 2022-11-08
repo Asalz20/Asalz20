@@ -23,10 +23,6 @@
 <p align="center">
 As a software engineer, I've been able to fuse my passion in E-commerce and software development to build upon systems and bring solutions to everyday businesses. Supporting small businesses is what I do, and I hope to bring my skills to those communities around me. </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Asalz20&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&dates=D9D9D9&background=0A0F15&border=0A0F15&stroke=8A00D5&ring=319CD9&fire=C530FA&currStreakNum=D9D9D9&sideNums=D9D9D9&currStreakLabel=165A9E&sideLabels=165A9E">
-</div>
-
 <h1 align="center">Projects</h1>
 <table align="center" bordercolor="#66b2b2">
   
