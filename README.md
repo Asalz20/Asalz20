@@ -76,7 +76,7 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
       <br />
         <p align="center">
 
-  <a href="#" target="_blank">
+  <a href="https://github.com/Asalz20/bible-verse-scripture-app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
@@ -95,7 +95,7 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
   <a href="https://secondsightexperience.nyc/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LIVE&color=319cd9&style=flat-square&logo=react&logo-color=white"/>
   </a>
-  <a href="https://github.com/Asalz20/second-sight" target="_blank">
+  <a href="https://github.com/SecondSE/LP" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
@@ -105,7 +105,6 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
 </table>
 
 <h1 align="center">Technologies & Software</h1>
-
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=ff6900&style=flat-square&logo=html5"/>
