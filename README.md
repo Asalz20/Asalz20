@@ -95,11 +95,11 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
   <a href="https://secondsightexperience.nyc/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LIVE&color=319cd9&style=flat-square&logo=react&logo-color=white"/>
   </a>
-  <a href="https://github.com/SecondSE/LP" target="_blank">
+  <a href="[https://github.com/SecondSE/LP](https://github.com/SecondSE/LP)" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>Fully responsive landing page for NYC Marketing Agency based out of Manhattan, NYC</p>
+        <p>A Fully responsive landing page for an independent creative agency specializing in curating relationships between brands and consumers located in Manhattan, NYC.</p>
     </td>
   </tr>
 </table>
