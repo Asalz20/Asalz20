@@ -44,7 +44,7 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>Fully responsive Ecommerce website built for the Pectus Excavatum community</p>
+        <p>Pectus Plus stands for the community-building power of e-commerce. This site is dedicated to foster education and collaboration across the medical industry.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">PectusPlus Blog</h3>
@@ -62,7 +62,7 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>Fully responsive blog site for PectusPlus.com where posts go in depth on living with Pectus Excavatum, published medical articles, stretching techniques, breathing techniques, and weightlifting routines</p>
+        <p>Pectus Plus Blog is a natural extension of Pectus Plus, offering a deeper level of engagement and expertise for our community. Posts go in depth on living with Pectus Excavatum, published medical articles, stretching techniques, breathing techniques, and weightlifting routines</p>
     </td>
   </tr>
   
@@ -80,7 +80,7 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=8A00D5&style=flat-square&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>Fully responsive Bible Scripture app used by the Church of Bergen
+        <p>A fully responsive Bible Scripture app used by the Church of Bergen
               to recite, study, and interpret scripture</p>
     </td>
     <td width="50%" valign="top">
