@@ -1,7 +1,7 @@
 <img src="img/LinkedIncover.png" width="100%">
 <h1 align="center">Hey 👋, I'm Alex</h1>
 <p align="center">
-  <a href="https://asalazar.dev" target="_blank">
+  <a href="https://asalazar-dev-7ac095.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=319cd9&style=flat-square&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/alex-salazar-dev/" target="_blank">
@@ -13,7 +13,7 @@
   <a href="https://angel.co/u/alex-salazar-dev" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=8A00D5&style=flat-square&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://asalazar.dev/pdf/resume-alex-salazar.pdf" target="_blank">
+  <a href="https://asalazar-dev-7ac095.netlify.app/pdf/resume-alex-salazar.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=319cd9&style=flat-square&logo=react&logo-color=white"/>
   </a>
 </p>
