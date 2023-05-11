@@ -35,7 +35,7 @@ As a software engineer, I've been able to fuse my passion in E-commerce and soft
       <h3 align="center">PectusPlus.com</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="./img/pectus-plus.png" width="100%" alt="PectusPlus.com"/>
+            <img src="./img/pectusplus.png" width="100%" alt="PectusPlus.com"/>
         </a>
         <br />
         <p align="center">
