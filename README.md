@@ -1,5 +1,5 @@
 <img src="img/LinkedIncover.png" width="100%">
-<h1 align="center">Hey 👋, I'm Alex</h1>
+<h1 align="center">Alexis Salazar: Software Engineer</h1>
 <p align="center">
   <a href="https://asalazar-dev-7ac095.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=319cd9&style=flat-square&logo=react&logo-color=white"/>
